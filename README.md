@@ -8,7 +8,6 @@
 
 - **User-Friendly Interface**: An intuitive and responsive design ensuring a seamless shopping experience.
 - **Diverse Product Categories**: Explore various categories such as painting, sculpture, knitting, woodworking, and more.
-- **Artisan Profiles**: Detailed profiles for artisans, showcasing their work and stories.
 - **Wishlist and Favorites**: Save your favorite items for future reference.
 
 ### Technologies Used
